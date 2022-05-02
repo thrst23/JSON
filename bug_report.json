@@ -1,1 +1,7 @@
+1.Choose a project and click Edit button
+2.Change the status of the project
+3.Click Save changes
+4.Click Project Viewing page
 
+Result: the status has not changed
+Expected result: the status is renewed
